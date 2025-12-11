@@ -1,0 +1,163 @@
+{
+  "@@locale": "de",
+  "overview": "Übersicht",
+  "hello": "Hallo {name}!",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "yourActivity": "Deine Aktivität",
+  "healthConnectConnected": "Health Connect verbunden - Automatische Schrittverfolgung aktiv",
+  "healthConnectNotConnected": "Health Connect nicht verbunden - Testdaten werden verwendet",
+  "refreshSteps": "Schritte aktualisieren",
+  "todaysSteps": "Heutige Schritte",
+  "weeklyAverage": "Wochen-Durchschnitt",
+  "points": "Punkte",
+  "testMode": "Testmodus",
+  "automaticallySynchronized": "Automatisch synchronisiert",
+  "departmentStrength": "Die Stärke der Fachbereiche",
+  "registeredUsersPerDepartment": "Registrierte Benutzer pro Fachbereich",
+  "totalRegisteredUsers": "Gesamt: {count} registrierte Benutzer",
+  "@totalRegisteredUsers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "rewards": "Prämienkatalog",
+  "faq": "FAQ",
+  "imprint": "Impressum",
+  "privacy": "Datenschutz",
+  "feedback": "Feedback",
+  "redeemReward": "Prämie Einlösen",
+  "language": "Sprache",
+  "english": "Englisch",
+  "german": "Deutsch",
+  "logout": "Abmelden",
+  "noEmailAvailable": "Keine E-Mail verfügbar",
+  "stepTrackerDebug": "Step Tracker Debug",
+  "synchronizeSteps": "Schritte synchronisieren",
+  "ok": "OK",
+
+  "profile": "Profil",
+  "profilePictureUpdated": "Profilbild aktualisiert!",
+  "uploadFailed": "Upload fehlgeschlagen",
+  "errorMessage": "Fehler: {error}",
+  "@errorMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Passwort ändern",
+  "oldPassword": "Altes Passwort",
+  "newPassword": "Neues Passwort",
+  "confirmPassword": "Passwort bestätigen",
+  "cancel": "Abbrechen",
+  "change": "Ändern",
+  "passwordsDoNotMatch": "Passwörter stimmen nicht überein",
+  "passwordChangedSuccessfully": "Passwort erfolgreich geändert",
+  "errorChangingPassword": "Fehler beim Ändern",
+  "deleteAccount": "Account löschen",
+  "deleteAccountConfirmation": "Sind Sie sicher, dass Sie Ihren Account löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+  "delete": "Löschen",
+  "errorDeletingAccount": "Fehler beim Löschen des Accounts",
+  "changeAvatar": "Avatar Ändern",
+  "totalSteps": "Gesamte\nSchritte",
+  "redeemedRewards": "Eingelöschte Prämien",
+  "noRedeemedRewards": "Keine eingelöschten Prämien",
+  "yourActivities": "Deine Aktivitäten",
+  "forOneYear": "Für ein Jahr",
+  "lastSevenDays": "Der letzten 7 Tage",
+  "forEntireMonth": "Für den ganzen Monat",
+  "changePasswordButton": "Passwort Ändern",
+  "deleteAccountButton": "Account Löschen",
+
+
+  "yearlyActivityTitle": "Deine Aktivität für ein Jahr",
+  "steps": "Schritte",
+  "noData": "Keine Daten",
+  "total": "Gesamt",
+  "average": "Durchschnitt",
+  "highest": "Höchstwert",
+  "monthlyOverview": "Monatliche Übersicht",
+  "january": "Januar",
+  "february": "Februar",
+  "march": "März",
+  "april": "April",
+  "may": "Mai",
+  "june": "Juni",
+  "july": "Juli",
+  "august": "August",
+  "september": "September",
+  "october": "Oktober",
+  "november": "November",
+  "december": "Dezember",
+  "januaryShort": "Jan",
+  "februaryShort": "Feb",
+  "marchShort": "Mär",
+  "aprilShort": "Apr",
+  "mayShort": "Mai",
+  "juneShort": "Jun",
+  "julyShort": "Jul",
+  "augustShort": "Aug",
+  "septemberShort": "Sep",
+  "octoberShort": "Okt",
+  "novemberShort": "Nov",
+  "decemberShort": "Dez",
+
+
+  "sevenDayActivityTitle": "Deine Aktivität der letzten 7 Tage",
+  "dailyOverview": "Tägliche Übersicht",
+  "monday": "Montag",
+  "tuesday": "Dienstag",
+  "wednesday": "Mittwoch",
+  "thursday": "Donnerstag",
+  "friday": "Freitag",
+  "saturday": "Samstag",
+  "sunday": "Sonntag",
+  "mondayShort": "Mo",
+  "tuesdayShort": "Di",
+  "wednesdayShort": "Mi",
+  "thursdayShort": "Do",
+  "fridayShort": "Fr",
+  "saturdayShort": "Sa",
+  "sundayShort": "So",
+
+  "monthlyActivityTitle": "Deine Aktivität für den Monat",
+  "date": "Datum",
+
+
+
+  "faqQuestion1": "Woher kommt FuSion?",
+  "faqAnswer1": "FuSion wurde als Teil des Hochschulprojektes 'Bewegt studieren-Studieren bewegt 2.0' des Allgemeinen Deutschen Hochschulsportverbandes und der Techniker Krankenkassen entwickelt, um die Studierenden der Hochschule Fulda zu mehr Bewegung im Alltag zu animieren.\nDer Hochschulsport der Hochschule Fulda hat sich für die Entwicklung tatkräftige Unterstützung aus einem Projekt des Studiengangs Gesundheitstechnik und einer Master-Arbeit geholt und wird nur von einem Team aus Studierenden unter der Regie des Hochschulsportes weiterentwickelt und betrieben.",
+
+  "faqQuestion2": "Was war denn nochmal diese Fachbereichs-Challenge?",
+  "faqAnswer2": "Dies ist zukünftig in Planung. Die Fachbereichs-Challenge ist ein Wettbewerb, bei dem die Fachbereiche gegeneinander antreten. Beim ersten Log-in wirst du nach deinem Fachbereich, an dem du arbeitest oder studierst, gefragt. Das Team für die Mitarbeiter*innen der Verwaltung heißt 'Administration'. Bei diesem Wettbewerb werden alle Schritte des jeweiligen Fachbereichs berücksichtigt und ein Schrittdurchschnitt berechnet.\nAuf Basis dieses Durchschnitts gibt es ein Ranking der Fachbereiche. Dieses Ranking kannst du dir in der App unter dem Menüpunkt Ranking ansehen. Die Teams/die Fachbereiche, die ganz oben im Ranking stehen, bekommen noch einmal extra Prämien-Punkte.",
+
+  "faqQuestion3": "Ich habe gelesen, dass ich für meine Leistung Prämien erhalten kann?",
+  "faqAnswer3": "Ja, da hast du richtig gelesen! Für jede Woche wird dein persönlicher Tagesdurchschnitt berechnet. Am Sonntagabend werden dir dann für deinen persönlichen Durchschnitt eine bestimmte Anzahl an Punkten gutgeschrieben. \nWie viele Punkte du für wie viele Schritte (Wochendurchschnitt) bekommst, kannst du in der untenstehenden Tabelle sehen. Nach einer Woche wird dein Durchschnitt wieder auf null gesetzt und du beginnst jede Woche am Montag an einem neuen Durchschnitt zu arbeiten. Deine erarbeiteten Punkte kannst du dann ganz einfach beim Hochschulsport gegen tolle Prämien einlösen. Eine Liste der Prämien kannst du auch unten finden.\n\n2000 Schritte/Tag = 1 Punkt\n3500 Schritte/Tag = 2 Punkte\n5000 Schritte/Tag = 3 Punkte\n6500 Schritte/Tag = 4 Punkte\n8000 Schritte/Tag = 5 Punkte\n10.000 Schritte/Tag = 6 Punkte\n11.5000 Schritte/Tag = 7 Punkte",
+
+  "faqQuestion4": "Kann ich feedback geben?",
+  "faqAnswer4": "Bitte hilf uns bei der Entwicklung mit deinem Feedback weiter. Teile uns gerne  Hinweise, Verbesserungsvorschläge etc. per Mail an hochschulsport@hs-fulda.de mit.",
+
+  "faqQuestion5": "Ich habe mein Passwort vergessen, was kann ich tun?",
+  "faqAnswer5": "Wenn du dein Passwort vergessen hast, dann ist das nicht schlimm. Bitte kontaktiere unseren Support unter der E-Mail-Adresse fusion2024hsp@gmail.com, wir helfen dir gerne weiter.",
+
+  "faqQuestion6": "Ich habe Technische Fragen, an wen kann ich mich denn wenden?",
+  "faqAnswer6": "Für technische Fragen haben wir eine extra E-Mail-Adresse eingerichtet – bitte habe etwas Geduld, wenn wir nicht sofort antworten, wir werden deine E-Mail auf jeden Fall beantworten. \nfusion2024hsp@gmail.com",
+
+  "faqQuestion7": "Wie erhalte ich die Prämie?",
+  "faqAnswer7": "Willst du eine Prämie gegen deine Punkte einlösen, dann schreib uns eine Mail. \nBitte schreib in die Mail deinen Namen, deine E-mail Adresse deines Fusion-Kontos, deinen Benutzernamen und die Prämie, die du gerne möchtest. \nAlle weiteren Infos, wie zum Beispiel wo du dir deine Prämie abholen kannst, lassen wir die dann zukommen. \n\nsamuel.rill@hs-fulda.de\n",
+
+  "faqQuestion8": "Kann ich Extra-Punkte erhalten?",
+  "faqAnswer8": "Ja, dass kannst du. Wir schenken die fünf Punkte, wenn du uns bei der Entwicklung ein wenig weiterhilfst.\nGehe dafür in der App auf den Menüpunkt 'Feedback' und nehme an der hinterlegten Befragung teil.\nBitte halte deine E-mail Adresse bereit, mit der du dich bei der App angemeldet hast, damit wird deinen Fragebogen deinem Account zuordnen und dir deinen wohlverdienten Punkt gutschreiben können.",
+
+  "privacyText": "Hier geht es zur Datenschutzerklärung:",
+  "privacyLink": "https://www.hs-fulda.de/unsere-hochschule/a-z-alle-institutionen/hochschulsport/fusion"
+}

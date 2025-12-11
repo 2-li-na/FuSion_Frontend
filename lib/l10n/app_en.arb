@@ -1,0 +1,162 @@
+{
+  "@@locale": "en",
+  "overview": "Overview",
+  "hello": "Hello {name}!",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "yourActivity": "Your Activity",
+  "healthConnectConnected": "Health Connect connected - Automatic step tracking active",
+  "healthConnectNotConnected": "Health Connect not connected - Test data is used",
+  "refreshSteps": "Refresh steps",
+  "todaysSteps": "Today's Steps",
+  "weeklyAverage": "Weekly Average",
+  "points": "Points",
+  "testMode": "Test Mode",
+  "automaticallySynchronized": "Automatically Synchronized",
+  "departmentStrength": "Department Strength",
+  "registeredUsersPerDepartment": "Registered Users per Department",
+  "totalRegisteredUsers": "Total: {count} registered users",
+  "@totalRegisteredUsers": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "rewards": "Rewards Catalog",
+  "faq": "FAQ",
+  "imprint": "Imprint",
+  "privacy": "Privacy",
+  "feedback": "Feedback",
+  "redeemReward": "Redeem Reward",
+  "language": "Language",
+  "english": "English",
+  "german": "German",
+  "logout": "Logout",
+  "noEmailAvailable": "No email available",
+  "stepTrackerDebug": "Step Tracker Debug",
+  "synchronizeSteps": "Synchronize Steps",
+  "ok": "OK",
+
+  "profile": "Profile",
+  "profilePictureUpdated": "Profile picture updated!",
+  "uploadFailed": "Upload failed",
+  "errorMessage": "Error: {error}",
+  "@errorMessage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "changePassword": "Change Password",
+  "oldPassword": "Old Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "cancel": "Cancel",
+  "change": "Change",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "passwordChangedSuccessfully": "Password changed successfully",
+  "errorChangingPassword": "Error changing password",
+  "deleteAccount": "Delete Account",
+  "deleteAccountConfirmation": "Are you sure you want to delete your account? This action cannot be undone.",
+  "delete": "Delete",
+  "errorDeletingAccount": "Error deleting account",
+  "changeAvatar": "Change Avatar",
+  "totalSteps": "Total\nSteps",
+  "redeemedRewards": "Redeemed Rewards",
+  "noRedeemedRewards": "No redeemed rewards",
+  "yourActivities": "Your Activities",
+  "forOneYear": "For a year",
+  "lastSevenDays": "Last 7 Days",
+  "forEntireMonth": "For the entire month",
+  "changePasswordButton": "Change Password",
+  "deleteAccountButton": "Delete Account",
+
+
+  "yearlyActivityTitle": "Your Activity for a Year",
+  "steps": "Steps",
+  "noData": "No Data",
+  "total": "Total",
+  "average": "Average",
+  "highest": "Highest",
+  "monthlyOverview": "Monthly Overview",
+  "january": "January",
+  "february": "February",
+  "march": "March",
+  "april": "April",
+  "may": "May",
+  "june": "June",
+  "july": "July",
+  "august": "August",
+  "september": "September",
+  "october": "October",
+  "november": "November",
+  "december": "December",
+  "januaryShort": "Jan",
+  "februaryShort": "Feb",
+  "marchShort": "Mar",
+  "aprilShort": "Apr",
+  "mayShort": "May",
+  "juneShort": "Jun",
+  "julyShort": "Jul",
+  "augustShort": "Aug",
+  "septemberShort": "Sep",
+  "octoberShort": "Oct",
+  "novemberShort": "Nov",
+  "decemberShort": "Dec",
+
+
+  "sevenDayActivityTitle": "Your Activity for the Last 7 Days",
+  "dailyOverview": "Daily Overview",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+  "mondayShort": "Mon",
+  "tuesdayShort": "Tue",
+  "wednesdayShort": "Wed",
+  "thursdayShort": "Thu",
+  "fridayShort": "Fri",
+  "saturdayShort": "Sat",
+  "sundayShort": "Sun",
+
+  "monthlyActivityTitle": "Your Activity for the Month",
+  "date": "Date",
+
+
+  "faqQuestion1": "Where does FuSion come from?",
+  "faqAnswer1": "FuSion was developed as part of the university project 'Bewegt studieren-Studieren bewegt 2.0' by the General German University Sports Association and the health insurance provider Techniker Krankenkassen to motivate students at Fulda University of Applied Sciences to be more active in everyday life.\nFulda University of Applied Sciences' Sports Centre received active support for the development from a project of the e-health study programme and a Master's thesis and is being further developed and operated by a team of students under the direction of the Sports Centre.",
+
+  "faqQuestion2": "What was that department challenge again?",
+  "faqAnswer2": "Note: This is planned for the future. The department challenge is a competition in which departments compete against each other. When you log in for the first time, you will be asked for the department in which you work or study. The team for administration employees is called 'Administration'. \nIn this competition, all steps of the respective department are taken into account and a step average is calculated. The departments are ranked on the basis of this average. You can view this ranking in the app under the menu item Ranking. The teams/departments at the top of the ranking receive extra bonus points.",
+
+  "faqQuestion3": "I have read that i can receive bonuses for my social sevices?",
+  "faqAnswer3": "Yes, you read that right! Your personal daily average is calculated for each week. On Sunday evening, you will be credited with a certain number of points for your personal average. \nYou can see how many points you get for how many steps (weekly average) in the table below. After a week, your average is reset to zero and you start working on a new average every week on Monday. \nYou can then easily redeem the points you have earned for great rewards at Hochschulsport. \nyou can find a list of rewards below. \n2000 steps/day = 1 point\n3500 steps/day = 2 points\n5000 steps/day = 3 points\n6500 steps/day = 4 points\n8000 steps/day = 5 points\n10,000 steps/day = 6 points\n11,5000 steps/day = 7 points",
+
+  "faqQuestion4": "Can i give feedback?",
+  "faqAnswer4": "Please help us with the development with your feedback. Feel free to send us any comments, suggestions for improvement etc. by email to hochschulsport@hs-fulda.de.",
+
+  "faqQuestion5": "I have forgotten my password, what can I do?",
+  "faqAnswer5": "If you have forgotten your password, that's no problem. Please contact our support team at the email address fusion2024hsp@gmail.com and we will be happy to help you.",
+
+  "faqQuestion6": "I have technical questions, who can i contact?",
+  "faqAnswer6": "We have set up an extra email address for technical questions - please be patient if we don't reply immediately, we will definitely answer your email. \nfusion2024hsp@gmail.com",
+
+  "faqQuestion7": "How do I receive the reward?",
+  "faqAnswer7": "If you want to redeem a reward for your points, please send us an email. \nPlease include your name, the email address of your Fusion account, your username and the reward you would like in the email. \nWe will then send you with all further information, such as where you can pick up your reward. \n\nsamuel.rill@hs-fulda.de\n",
+
+  "faqQuestion8": "Can I receive extra points?",
+  "faqAnswer8": "Yes, you can. We'll give you five points if you help us a bit with the development.\nTo do this, go to the 'Feedback' menu item in the app and participate in the survey there.\nPlease have your email address ready that you registered with in the app, so we can assign your questionnaire to your account and credit your well-earned point.",
+
+  "privacyText": "Click here for the data protection statement:",
+  "privacyLink": "https://www.hs-fulda.de/unsere-hochschule/a-z-alle-institutionen/hochschulsport/fusion"
+}
